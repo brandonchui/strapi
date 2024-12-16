@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_guide_components_pages",
+  "info": {
+    "displayName": "page"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "order": {
+      "type": "integer"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
